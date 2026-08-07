@@ -1,8 +1,8 @@
-# DroidKaigi 2026 — Voice Agents on Android with Pipecat
+# Android Gets a Voice: Building Real-Time Agents
 
-Conference materials and demo code for our DroidKaigi 2026 session in Tokyo.
+Conference materials and demo code for our **DroidKaigi 2026** session in Tokyo.
 
-> **TODO:** talk title, abstract, speaker bio, session link, date/room.
+> **TODO:** abstract, speaker bio, session link, date/room.
 
 ## The repos
 

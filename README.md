@@ -33,5 +33,4 @@ Build-it-yourself: [SERVER.md](https://github.com/m15-ai/droidkaigi2026-homer-se
 ## In this repo
 
 - [`slides/`](slides/) — the conference deck (.pptx + PDF export)
-- [`docs/demo-runbook.md`](docs/demo-runbook.md) — demo-day checklist and fallback plan
 - [`assets/`](assets/) — QR codes, images, logos

@@ -2,8 +2,6 @@
 
 Conference materials and demo code for our **DroidKaigi 2026** session in Tokyo.
 
-> **TODO:** abstract, speaker bio, session link, date/room.
-
 ## The repos
 
 | Repo | What it is |

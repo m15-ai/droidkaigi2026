@@ -15,4 +15,4 @@ Conference materials and demo code for our **DroidKaigi 2026** session in Tokyo.
 ## In this repo
 
 - [`slides/`](slides/) — the conference deck (.pptx + PDF export)
-- [`assets/`](assets/) — the requirements template (one Markdown file)
+- [`assets/`](assets/) — the requirements template, plus a completed example (GVP)

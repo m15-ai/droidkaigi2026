@@ -12,10 +12,6 @@ Conference materials and demo code for our **DroidKaigi 2026** session in Tokyo.
 | **[droidkaigi2026-app-pipecat](https://github.com/m15-ai/droidkaigi2026-app-pipecat)** | **Pipecat** — the Android voice **thin client** that talks to Homer over WebRTC, with selectable per-agent visualizers (oscilloscope · a ballpark "Running the Bases" scene · an amber orb). |
 | **[droidkaigi2026-homer-openclaw](https://github.com/m15-ai/droidkaigi2026-homer-openclaw)** | **Homer**, the baseball voice agent server: an [OpenClaw](https://openclaw.ai) brain behind a Pipecat WebRTC voice stack, with live MLB data skills (Dodgers / Shohei Ohtani superfan). Runs on a Raspberry Pi 5. |
 
-Homer is the voice agent server; the Pipecat thin client points at it over
-WebRTC (`:7865`), so the whole stack runs on a Raspberry Pi 5 and you talk to it
-from the Android app.
-
 ## In this repo
 
 - [`slides/`](slides/) — the conference deck (.pptx + PDF export)
